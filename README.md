@@ -1,16 +1,11 @@
-# cadastro_cerveja
+# cadastro_abastecimento
 
-A new Flutter project.
+Projeto de aplicativo em flutter com supabase para cadastro de abastecimentos de veiculos e analise de dados
+Foi um projeto relativamente complexo visto que nunca havia mexido com o flutter e dart, mesmo que parecidos com o Java a parte de crição de layout foi um desafio.
+Até pensei em fazer uma tela de login mas ache que se tornaria muito trabalhoso ter que logar para acessar o aplicativo, aliás, o codigo dessa implementação ainda está presente no fork.
+Não consegui de jeito nenhum utilizar o apk em algum smartphone, não faço ideia do porque, ele apenas funciona no emulador, na verdade ele até chega a funcionar, mas não mostra as informações, possivelmente porque usei o FutureBuilder, e não está retornando nada nas consultas com o Banco Supabase, procurei por muito tempo e não achei o possivel problema.
+A integração com o banco de dados no inicio era muito confusa, mas peguei o jeito, unico problema que tive que mapear na mão os objetos através da chave-valor
 
-## Getting Started
+Enfim, queria evoluir muito mais o aplicativo e eexpandir para cadastro de outros itens e importação de dados, mas no momento não tenho tempo para tal.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Made by Eduardo Gehrke
