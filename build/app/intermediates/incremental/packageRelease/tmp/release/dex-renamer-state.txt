@@ -1,0 +1,4 @@
+#Tue Dec 27 21:00:48 BRT 2022
+base.0=/home/eduardo/AndroidStudioProjects/cadastro_cerveja/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
